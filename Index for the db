@@ -1,0 +1,14 @@
+idx_feature
+idx_username
+idx_lic_server
+idx_machine
+idx_licenses
+idx_feature_licenses
+idx_software_licenses
+idx_start_time_standardized
+idx_server_licenses
+idx_feature_start_time_standardized
+idx_feature_start_time_standardized_licenses
+idx_username_licenses
+idx_software_start_time_standardized_licenses
+idx_username_software
